@@ -1,13 +1,13 @@
-# 🧩 Proyecto: Sistema de Productos (API REST + Cliente Web con Vue 3)
+# Proyecto: Sistema de Productos (API REST + Cliente Web con Vue 3)
 
-### 🚀 Autor: **David (Daviixc)**
+### Autor: **David (Daviixc)**
 **Materia:** Infraestructura de Servicios Digitales  
 **Institución:** Tec Superior  
 **Fecha:** Noviembre 2025  
 
 ---
 
-## 📘 Descripción general
+## Descripción general
 
 Este proyecto implementa un **sistema completo de gestión de productos**, desarrollado bajo una arquitectura **cliente-servidor**.
 
